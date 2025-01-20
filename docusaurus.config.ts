@@ -69,10 +69,18 @@ const config: Config = {
 			},
 			items: [
 				{
+					to: '/leads',
 					type: 'docSidebar',
-					sidebarId: 'tutorialSidebar',
+					sidebarId: 'leadsSidebar',
 					position: 'left',
-					label: 'Docs',
+					label: 'For Leads',
+				},
+				{
+					to: '/scouters',
+					type: 'docSidebar',
+					sidebarId: 'scoutersSidebar',
+					position: 'left',
+					label: 'For Scouters',
 				},
 				{to: '/blog', label: 'Blog', position: 'left'},
 			],

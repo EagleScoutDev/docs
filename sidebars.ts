@@ -1,37 +1,40 @@
 import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 const sidebars: SidebarsConfig = {
-  tutorialSidebar: [
-    "home",
-    "getting-started",
-    "forms",
+  leadsSidebar: [
+    "leads/home",
+    "leads/getting-started",
+    "leads/forms",
     {
       type: "category",
       label: "Competitions",
       link: {
         type: "doc",
-        id: "competitions/introduction",
+        id: "leads/competitions/introduction",
       },
-      items: ["competitions/scouting-assignments", "competitions/tba-code"],
+      items: ["leads/competitions/scouting-assignments", "leads/competitions/tba-code"],
     },
-    "scouter-management",
+    "leads/scouter-management",
     {
       type: "category",
       label: "Data Analysis",
       link: {
         type: "doc",
-        id: "data-analysis/introduction",
+        id: "leads/data-analysis/introduction",
       },
       items: [
-        "data-analysis/team-overview",
-        "data-analysis/team-rank",
-        "data-analysis/weighted-team-rank",
-        "data-analysis/match-predictor",
-        "data-analysis/export-to-csv",
+        "leads/data-analysis/team-overview",
+        "leads/data-analysis/team-rank",
+        "leads/data-analysis/weighted-team-rank",
+        "leads/data-analysis/match-predictor",
+        "leads/data-analysis/export-to-csv",
       ],
     },
-    "picklists",
-    "scoutcoin",
+    "leads/picklists",
+    "leads/scoutcoin",
+  ],
+  scoutersSidebar: [
+      "scouters/home"
   ],
 };
 

@@ -8,6 +8,8 @@ entered this information, press the "Submit" button to create the competition.
 
 To get a competition's TBA code, refer to the instructions [here](tba-code).
 
+---
+
 ### Modifying Competitions
 
 To view and modify competitions, press the "Manage Competitions" button. You will be able to view all competitions you
