@@ -1,23 +1,7 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
+alan:
+  name: Alan Chen
+  title: Scouting App Lead @ Eaglestrike
+  url: https://github.com/alaninnovates
+  image_url: https://images-ext-1.discordapp.net/external/KXdGNTzwSZN2pPPUJodiplXvxieGSPWnYFauclhtPUM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/890374731524628490/c28c88f014d244a17ad85e671363c64c.webp
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: alaninnovates
