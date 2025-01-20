@@ -1,3 +1,0 @@
-# Team Rank
-
-Start typing here...

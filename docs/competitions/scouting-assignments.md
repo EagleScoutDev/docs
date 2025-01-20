@@ -1,3 +1,0 @@
-# Scouting Assignments
-
-Start typing here...

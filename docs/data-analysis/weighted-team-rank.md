@@ -1,3 +1,0 @@
-# Weighted Team Rank
-
-Start typing here...

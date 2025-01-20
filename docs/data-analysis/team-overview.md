@@ -1,3 +1,0 @@
-# Team Overview
-
-Start typing here...
