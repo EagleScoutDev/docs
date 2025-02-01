@@ -8,3 +8,9 @@ EagleScout is a next-generation scouting app for FRC, or First Robotics Competit
 
 Want to learn more?
 Visit the [primary EaglesScout github repo](https://github.com/EagleScoutDev/eaglescout)!
+
+## Images
+
+![Homepage](https://cloud-6mzcmw0ph-hack-club-bot.vercel.app/0home___eaglescout.jpeg)
+
+Visit the site at https://eaglescoutdev.github.io/docs!
