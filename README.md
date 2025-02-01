@@ -1,41 +1,10 @@
-# Website
+# EagleScout Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repo houses the source code for the EagleScout documentation site. The site is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## What is EagleScout?
 
-```
-$ yarn
-```
+EagleScout is a next-generation scouting app for FRC, or First Robotics Competition. With its mobile-first approach, it is friendly to any device. In addition, it includes a full suite of aggregation features that will help you perfect your alliance strategy. EagleScout's customizable forms allow you to create forms with an in-app form editor, without waiting for an app update after the season starts!
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Want to learn more?
+Visit the [primary EaglesScout github repo](https://github.com/EagleScoutDev/eaglescout)!
